@@ -27,7 +27,7 @@ Fetch Recipe App is designed to help users look up recipes, add them to a weekly
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/fetch-recipe-app.git](https://github.com/SkreetGithub/Fetch-Recipe)
+   git clone (https://github.com/SkreetGithub/Fetch-Recipe)
    ```
 2. Navigate to the project directory:
    ```bash
